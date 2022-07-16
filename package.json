@@ -1,0 +1,9 @@
+{
+  "name": "bunray",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "bun-types": "^0.1.4"
+  }
+}
